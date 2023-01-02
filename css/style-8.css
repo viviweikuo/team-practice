@@ -1,0 +1,7 @@
+#users>.user-0{
+	color:green;
+}
+
+#users>.user-0:hover{
+	font-weight: bolder;
+}
